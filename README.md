@@ -1,4 +1,4 @@
-# Supervised-Learning---Classification
+# Supervised-Learning-Classification
 
 ## Hotel Booking Cancellation Prediction
 
